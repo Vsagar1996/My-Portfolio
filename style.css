@@ -1,0 +1,52 @@
+/* Logo Color */
+.logo {
+  color: rgb(235, 15, 15);
+}
+
+/* About Section */
+.about {
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+  padding: 20px;
+}
+
+/* Social Icons */
+.ss {
+  color: brown;
+  font-size: 28px;
+  margin: 0 15px;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+.ss:hover {
+  color: red;
+  transform: scale(1.2);
+}
+
+/* Navbar Links */
+.navbar-nav .nav-link {
+  color: white !important;
+  font-weight: 500;
+}
+.navbar-nav .nav-link:hover {
+  color: rgb(235, 15, 15) !important;
+}
+
+/* Skill Icons */
+.skill-icon {
+  font-size: 24px;
+  color: #ffc107;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+/* Cards */
+.card:hover {
+  transform: scale(1.03);
+  transition: transform 0.3s ease-in-out;
+}
+
+/* General Typography */
+.card-title {
+  font-weight: bold;
+}
