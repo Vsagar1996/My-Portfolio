@@ -5,3 +5,7 @@ Aspiring AI/ML, Data Science, and Analytics enthusiast with a strong foundation 
 ## Portfolio
 
 👉https://vsagar1996.github.io/My-Portfolio/
+
+## Resume
+
+👉 [Download Resume (PDF)](Resume/Vishnu_Sagar_Resume.pdf)
