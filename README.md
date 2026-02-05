@@ -1,11 +1,11 @@
-## About Me
+## 👋 About Me
 
-Aspiring AI/ML, Data Science, and Analytics enthusiast with a strong foundation in data-driven problem solving.
+AI/ML, Data Science, and Analytics enthusiast with a strong foundation in data-driven problem solving, data visualization, and analytical thinking.
 
-## Portfolio
+## 🌐 Portfolio
 
-👉https://vsagar1996.github.io/My-Portfolio/
+👉 [Visit my Portfolio](https://vsagar1996.github.io/My-Portfolio/)
 
-## Resume
+## 📄 Resume
 
-👉 [Download Resume (PDF)](Resume/Vishnu_Sagar_Resume.pdf)
+👉 [Download Resume (PDF)](resume/Vishnu_Sagar_Resume.pdf)
