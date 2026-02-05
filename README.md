@@ -8,4 +8,4 @@ AI/ML, Data Science, and Analytics enthusiast with a strong foundation in data-d
 
 ## 📄 Resume
 
-👉 [Download Resume (PDF)](https://github.com/Vsagar1996/My-Portfolio/raw/main/resume/Vishnu_Sagar_Resume.pdf)
+👉 [Download Resume (PDF)](https://github.com/Vsagar1996/My-Portfolio/raw/main/Resume/Vishnu_Sagar_Resume.pdf)
