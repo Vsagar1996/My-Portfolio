@@ -1,52 +1,89 @@
-/* Logo Color */
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  scroll-margin-top: 90px;
+}
+
 .logo {
   color: rgb(235, 15, 15);
 }
 
-/* About Section */
 .about {
-  width: 100%;
-  height: 100vh;
+  min-height: 100vh;
   background-color: black;
-  padding: 20px;
+  padding-top: 80px;
 }
 
-/* Social Icons */
 .ss {
   color: brown;
   font-size: 28px;
   margin: 0 15px;
   transition: transform 0.3s ease, color 0.3s ease;
 }
+
 .ss:hover {
   color: red;
   transform: scale(1.2);
 }
 
-/* Navbar Links */
 .navbar-nav .nav-link {
   color: white !important;
   font-weight: 500;
 }
+
 .navbar-nav .nav-link:hover {
   color: rgb(235, 15, 15) !important;
 }
 
-/* Skill Icons */
-.skill-icon {
-  font-size: 24px;
-  color: #ffc107;
-  margin-right: 8px;
-  vertical-align: middle;
+/* Unified Card Styling */
+.card {
+  border-radius: 14px;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
-/* Cards */
+.card-body {
+  padding: 1.5rem;
+}
+
 .card:hover {
-  transform: scale(1.03);
-  transition: transform 0.3s ease-in-out;
+  transform: translateY(-4px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.10);
 }
 
-/* General Typography */
+/* Experience list tightening */
+#experience ul {
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+#experience li {
+  margin-bottom: 6px;
+  line-height: 1.5;
+}
+
+/* Project text density */
+.card-text {
+  line-height: 1.5;
+}
+
+/* Tech Stack Line */
+.tech-stack {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #6c757d;
+  margin-bottom: 10px;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+h2 {
+  font-weight: 700;
+}
+
 .card-title {
-  font-weight: bold;
+  font-weight: 600;
 }
